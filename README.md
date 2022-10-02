@@ -12,3 +12,9 @@ TEC-1 Printer Plotter Driver
 ![56935255_2328769657401278_2760326600116404224_n](https://user-images.githubusercontent.com/58069246/193433156-0391f770-9041-400a-b1bc-c666169d18c3.png)
 ![57191741_2328769967401247_4052032409456082944_n](https://user-images.githubusercontent.com/58069246/193433160-6cb2b83a-34e7-47c7-8b2d-f3c23a3f9fbe.png)
 ![57504402_2328771184067792_9208634084211818496_n](https://user-images.githubusercontent.com/58069246/193433176-c104dff4-baec-40c4-b171-bdf1eae73427.png)
+
+
+
+### Ref
+- https://github.com/tec1group/Software/tree/master/utilities/printer
+
