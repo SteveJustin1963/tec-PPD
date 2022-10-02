@@ -1,7 +1,7 @@
 # tec-PPD
 TEC-1 Printer Plotter Driver
 
-![57485985_2328026870808890_5852372649992257536_o](https://user-images.githubusercontent.com/58069246/193433168-8aa56805-b0b6-4118-b27a-d8cbbb43b400.png)
+ 
 ![talking_electronics_12030](https://user-images.githubusercontent.com/58069246/193433183-9c7732da-2a7f-4137-a336-c84698859c70.png)
 
 
