@@ -1,4 +1,30 @@
 # tec-PPD
 TEC-1 Printer Plotter Driver
 
-The process of accessing and communicating with a printer/plotter using codes, specifically ASCII codes. the printer chip creates the shape of the characters based on the codes received from the computer and that the printer/plotter can also be instructed to rotate, plot, vary the size of characters and move in different directions. The data is sent to the printer in bursts and temporarily stored in a FIFO register, allowing larger computers to execute other tasks while the data is being printed. this process is standard and works with any computer that has a normal keyboard.
+This article provides information on using a program to produce 
+- letters, numbers, and symbols on a TEC printer by programming in ASCII code. 
+
+It includes instructions on how to 
+- access the printer, 
+- the necessary control lines 
+- and quick connect terminals, 
+- and a table of letters, numbers, and symbols with their corresponding hex values. 
+
+explains how to modify the operation of the printer to 
+- produce a listing of the monitor ROM 
+- and how to write a sentence using the hex keypad. 
+
+describes how to generate 
+- graphics on the printer 
+- using a coordinate system 
+- and provides examples and listings of the ASCII code for programming 
+  - a square, 
+  - line, 
+  - and hexagon shape, 
+  - as well as suggestions for investigating other shapes. 
+  
+a program for creating a 
+- honeycomb pattern using a Z80 computer, 
+- with explanations of the picture element and loops used in the program, 
+- and notes that being able to draw basic shapes opens up a whole new world of computer graphics.
+
